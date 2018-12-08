@@ -52,9 +52,9 @@ The series of code blocks within each folder are listed below. I suggest that be
 - 29. C++ OOP: Simple Terrain with predator-prey-snacks
 
 ## SYSTEMS INTEGRATION AND SCALABILITY
-- Quadtree Terrain
-- Octree Agent-Interaction
-- GPU Accelerated Interaction Processing with CUDA
+- [Quadtree Terrain](https://github.com/drecuk/QuadtreeTerrain)
+- [Quadtree Agent-Interaction](https://github.com/drecuk/QuadtreeAgentInteraction)
+- GPU Accelerated Interaction Processing with CUDA (to be developed)
 
 ## ACKWNOWLEDGEMENTS
 “This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ( ERC funded project No. 670518 LOST FRONTIERS)”
