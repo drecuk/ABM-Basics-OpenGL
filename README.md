@@ -55,3 +55,6 @@ The series of code blocks within each folder are listed below. I suggest that be
 - Quadtree Terrain
 - Octree Agent-Interaction
 - GPU Accelerated Interaction Processing with CUDA
+
+## ACKWNOWLEDGEMENTS
+“This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme ( ERC funded project No. 670518 LOST FRONTIERS)”
